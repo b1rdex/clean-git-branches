@@ -1,6 +1,6 @@
 # Clean git branches
 
-Allows to iterate over git branches list and search each of them on Github.
+Allows to iterate over git branches list, search each of them for pull requests created on Github and delete by confirmation.
 
 These was done to clear local branches list when Github's `squash and merge` method used on pull requests — merges are mot detected automatically.
 
